@@ -18,5 +18,5 @@ black widow
 brown recluse
 taratula.all
 camel spider
-
+wolf spider
 
