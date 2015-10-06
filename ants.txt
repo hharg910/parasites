@@ -3,3 +3,20 @@ fire ant
 honey pot ant
 forrest ant
 leaf harvester ant
+
+dung beetle
+stink bug
+assassin beetle
+potatoe bug
+
+
+hornet
+yellow jacket
+wasp
+
+black widow
+brown recluse
+taratula.all
+camel spider
+
+
